@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    padding: 1rem 0;
+}
+.loqo-nav img{
+    width: 100px;
+}
+.navbar-container i{
+margin: 0 0.5rem;
+
+}
+.menu-nav ul li{
+    margin-right: 1rem;
+    list-style: none;
+}
+.menu-nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.menu-nav ul li i{
+    font-size: 0.7rem;
+    padding-left: 0.3rem;
+}
+.nav-icon i{
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+    opacity: 0.8;
+}
+.nav-icon span{
+    margin-bottom: -1rem;
+}
+#contact{
+    background-color: #313030;
+}
+.contact{
+    padding: 0.7rem 0;
+}
+.contact i{
+color: white;
+margin-right: 0.5rem;
+}
+.contact-icons{
+ 
+    border-right: 1px solid rgb(201, 198, 198);
+}
+.contact-phone span{
+    color: white;
+}
+.contact-right a{
+text-decoration: none;
+color: white;
+margin-left: 1rem;
+margin-right: 5px;
+}
+.nobrd{
+    margin-left: 0px !important;
+}
+.contact-right li{
+    list-style: none;
+}
+
+/* contact dropdown    **************************************************** */
+.language-dp{
+    display: none;
+    position: absolute;
+    top:11%;
+    right: 17%;
+    width: 180px;
+border: 1px solid #313030;
+
+
+}
+.language-dp li{
+    padding: 1rem 0;
+}
+.language-dp li a{
+    color: #313030;
+ 
+}
+#dp-contact:hover .language-dp{
+    display: block !important;
+}
+
+
+
+/* ************************************************************************* */
+
+.carousel-item {
+    width: 500px;
+}
+.slider-content{
+    position: absolute;
+top: 30%;
+ 
+}

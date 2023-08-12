@@ -1,0 +1,9 @@
+@media(max-width: 992px){
+    .navbar-laptop{
+        display: none !important;
+
+    }
+    #contact{
+        display: none;
+    }
+}
