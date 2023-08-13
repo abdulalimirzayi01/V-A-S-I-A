@@ -6,4 +6,51 @@
     #contact{
         display: none;
     }
+    .content-main h3{
+      
+        font-size: 2rem;
+    }
+    .slider-content{
+        /* position: absolute; */
+    top: 7%;
+
+     
+    }
+    .content-main a{
+        font-size: 12px;
+        padding: 0.5rem 1rem;
+        border: 1px solid black;
+    }
+    .content-main p{
+        padding-right:10rem;
+        margin-bottom: 1rem;
+    }
+    #sponsor-6{
+        display: none;
+    }
+    #sponsor-5{
+        display: none;
+    }
+    /* .sponsor-img img{
+        width: 30%;
+
+    } */
+    /* .img-big-container{
+        display: block !important;
+    } */
+    .img-big-items{
+        position: relative;
+       
+    }
+    .img-big-items-button{
+        position: absolute;
+    
+        
+    }
+    .elementor-img-content h3{
+        font-size: 20px;
+    }
+    .elementor-img-content p{
+        font-size: 15px;
+    }
 }

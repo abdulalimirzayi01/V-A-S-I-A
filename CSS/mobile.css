@@ -1,0 +1,32 @@
+@media(max-width: 425px){
+
+    .content-main a{
+        font-size: 12px;
+        padding: 0.5rem 1rem;
+    }
+    .content-main p{
+        font-size: 12px;
+        }
+        .content-main h3{
+      
+            font-size: 1rem;
+        }
+        .content-main p{
+            padding-right:8rem;
+        }
+        .container-sponsor h3{
+            font-size: 1rem;
+        }
+        .onelist{
+            width: 100%;
+        }
+        .sponsor-img {
+            margin-bottom: 3rem;
+           
+        }
+        .img-produc-box img{
+            width: 100%;
+        }
+     
+        
+}
