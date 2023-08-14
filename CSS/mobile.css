@@ -27,6 +27,9 @@
         .img-produc-box img{
             width: 100%;
         }
+        .img-product-items ul{
+            padding-left: 0;
+        }
      
         
 }
