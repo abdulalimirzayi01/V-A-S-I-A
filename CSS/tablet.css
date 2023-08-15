@@ -1,3 +1,4 @@
+
 @media(max-width: 992px){
     .navbar-laptop{
         display: none !important;
@@ -53,4 +54,35 @@
     .elementor-img-content p{
         font-size: 15px;
     }
-}
+    /* .img-big-items-button{
+    top: 20%;
+    left: 35%;
+         */
+    
+    .black-friday-title-box  h4{
+        margin-bottom: 0.5rem;
+        font-size: 1rem;
+    }
+    /* .black-friday-title{
+   
+        top: 25%;
+        left: 40%;
+    } */
+    .black-friday-title-box{
+        position: absolute;
+        top: 25%;
+        left: 40%;
+    }
+    .black-friday-title-box a{
+        padding: 0.4rem 1.5rem ;    
+        border: 1px solid #313030 ;
+      
+    }
+    .black-friday-title-box a{
+        padding: 0.5rem 2rem }
+
+
+
+
+        
+    }

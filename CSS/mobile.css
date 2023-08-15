@@ -24,12 +24,30 @@
             margin-bottom: 3rem;
            
         }
+        .img-big-items-button{
+    top: 30%;
+    left: 25%;
+        }
         .img-produc-box img{
             width: 100%;
         }
         .img-product-items ul{
             padding-left: 0;
         }
+        .black-friday-title{
+            top: 5%;
+            left: 30%;
+        }
+        .black-friday-title-box a{
+            padding: 0rem 1rem;
+            
+        }
+        .black-friday-title-box{
+            position: absolute;
+            top: 5%;
+            left: 25%;
+        }
+       
      
         
 }
