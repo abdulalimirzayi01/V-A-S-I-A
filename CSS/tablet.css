@@ -83,6 +83,16 @@
 
 
 
-
-        
+        .header-shop{
+            position: absolute;
+            top: 50%;
+            left: 44%;
+        }
+        .dropdown{
+    width: 100%;
+        }
+        .title-tabs a{
+           
+            font-size: 0.8rem;
+        }
     }
